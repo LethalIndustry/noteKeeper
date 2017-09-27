@@ -21,8 +21,4 @@
 <preference auto-hide-splash-screen="true" />
 <preference useBrowserHistory="true" />
 <preference exit-on-suspend="false" />
-<gap:plugin name="org.apache.cordova.device" />
-<gap:plugin name="org.apache.cordova.media" />
-<gap:plugin name="org.apache.cordova.splashscreen" />
-<gap:plugin name="org.apache.cordova.dialogs" />
 </widget>
