@@ -21,7 +21,6 @@
 <preference auto-hide-splash-screen="true" />
 <preference useBrowserHistory="true" />
 <preference exit-on-suspend="false" />
-<gap:plugin name="org.apache.cordova.camera" />
 <gap:plugin name="org.apache.cordova.media-capture" />
 <gap:plugin name="org.apache.cordova.device" />
 <gap:plugin name="org.apache.cordova.media" />
